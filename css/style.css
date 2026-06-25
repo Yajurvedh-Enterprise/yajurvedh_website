@@ -531,7 +531,9 @@
     }
     
     .service-card h3 {
-        font-size: 1.3rem;
+        font-size: 1.04rem;
+        color: var(--gold1);
+        font-weight: 400;
     }
     /* =====================================
    WHY YAJURVEDH
@@ -1136,6 +1138,10 @@
             margin-bottom: 12px;
             margin-top: 12px;
         }
+        .service-title{
+            color: var(--gold1);
+        font-weight: 400;
+        }
     }
     /* ===================================
    LETTER PARTICLE DISSOLVE
@@ -1280,12 +1286,12 @@
     
     @media(max-width:768px) {
         #heroTitle {
-            font-size: 1.5rem;
+            font-size: 1.6rem;
         }
         .hero-content p {
             position: relative;
             font-family: 'Poppins', sans-serif;
-            font-size: 20px;
+            font-size: 15px;
             z-index: 20;
             margin: 0 auto 20px auto;
             color: rgba(245, 245, 245, 0.34);
@@ -1509,6 +1515,19 @@
             font-size: .85rem;
             white-space: nowrap;
         }
+        .block h2{
+             color: var(--gold1);
+        font-size: 1.25rem;
+        margin-bottom: 15px;
+        text-align: center;
+        font-weight: 600px;
+        }
+        .block p{
+            font-size: small;
+            text-align: center;
+            font-weight: 300px;
+        }
+
     }
     /* @media (max-width: 768px) {
     .stats {

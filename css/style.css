@@ -1033,7 +1033,7 @@
             grid-template-columns: 1fr;
         }
         .logo span {
-            font-size: 1.1rem;
+            font-size: 1.6rem;
         }
         .logo img {
             width: 50px;
@@ -1326,7 +1326,7 @@
             flex-shrink: 0;
         }
         .logo span {
-            font-size: 1rem;
+            font-size: 1.2rem;
             letter-spacing: 4px;
             white-space: nowrap;
             overflow: hidden;
